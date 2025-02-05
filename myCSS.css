@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 .homePage {
-	background: ##56D8FC;
+	background: #56D8FC;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: ##BFAAFC;
+	background: #BFAAFC;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -38,7 +38,7 @@ font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 .footer {
-	background: ##BFD8FF;
+	background: #BFD8FF;
 	margin: 0px;
 	float: left;
 	width: 100%;
